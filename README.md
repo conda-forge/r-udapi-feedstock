@@ -1,11 +1,11 @@
-About r-udapi
-=============
+About r-udapi-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-udapi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/Ironholds/udapi/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-udapi-feedstock/blob/main/LICENSE.txt)
 
 Summary: A client for the Urban Dictionary <http://www.urbandictionary.com/> API.
 
